@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b65bd99-6a8e-48a4-8af4-885546341360" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/.idea/vcs.xml" afterDir="false" />
@@ -16,6 +15,8 @@
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestingAutomationFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingAutomationFramework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,7 +67,7 @@
       <recent name="$PROJECT_DIR$/src/test/python/testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_login.py">
+  <component name="RunManager" selected="Python tests.Python tests in test_homepage.py">
     <configuration name="All in ParaBankAutomationFramework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -79,28 +80,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ParaBankAutomationFramework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="SDK_NAME" value="Python 3.10 (ParaBankAutomationFramework)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test/python/pages" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test/python/testcases/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="login_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
@@ -143,6 +122,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_homepage.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ParaBankAutomationFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test/python/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/python/testcases/test_homepage.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in test_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,18 +156,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in ParaBankAutomationFramework" />
-      <item itemvalue="Python.__init__" />
       <item itemvalue="Python.login_page" />
       <item itemvalue="Python.test_login" />
+      <item itemvalue="Python tests.Python tests in test_homepage.py" />
       <item itemvalue="Python tests.Python tests in test_login.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_homepage.py" />
         <item itemvalue="Python tests.Python tests in test_login.py" />
         <item itemvalue="Python.test_login" />
         <item itemvalue="JUnit.All in ParaBankAutomationFramework" />
         <item itemvalue="Python.login_page" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
