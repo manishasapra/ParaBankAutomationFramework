@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b65bd99-6a8e-48a4-8af4-885546341360" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MonefyAppAutomation/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/.idea/vcs.xml" afterDir="false" />
@@ -15,8 +16,50 @@
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestingAutomationFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingAutomationFramework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParaBankAutomationFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ParaBankAutomationFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/pages/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ParaBankAutomationFramework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/pages/base_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/pages/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/testcases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/testcases/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/testcases/test_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/ParaBankAutomationFramework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/pages/base_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/pages/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/testcases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/testcases/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/testcases/test_login.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +79,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2vkyEOSg5UtxbXwDr5FLD28JCEa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,10 +93,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.All in ParaBankAutomationFramework (1).executor": "Run",
+    "Python tests.Python tests in test_login.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/shivambansal/eclipse-workspace/ParaBankAutomationFramework",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -67,8 +113,16 @@
       <recent name="$PROJECT_DIR$/src/test/python/testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_homepage.py">
-    <configuration name="All in ParaBankAutomationFramework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_login.py">
+    <configuration name="All in ParaBankAutomationFramework (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParaBankAutomationFramework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ParaBankAutomationFramework" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="Python 3.10 (ParaBankAutomationFramework)" />
@@ -76,25 +130,24 @@
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="login_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_login (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="SDK_NAME" value="Python 3.10 (ParaBankAutomationFramework)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test/python/pages" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/target/classes/src/test/python/testcases" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test/python/pages/login_page.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/target/classes/src/test/python/testcases/test_login.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,8 +158,12 @@
     </configuration>
     <configuration name="test_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="SDK_NAME" value="Python 3.10 (ParaBankAutomationFramework)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
@@ -124,6 +181,7 @@
     </configuration>
     <configuration name="Python tests in test_homepage.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -138,6 +196,7 @@
     </configuration>
     <configuration name="Python tests in test_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,19 +214,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in ParaBankAutomationFramework" />
-      <item itemvalue="Python.login_page" />
+      <item itemvalue="JUnit.All in ParaBankAutomationFramework (1)" />
+      <item itemvalue="Python.test_login (1)" />
       <item itemvalue="Python.test_login" />
       <item itemvalue="Python tests.Python tests in test_homepage.py" />
       <item itemvalue="Python tests.Python tests in test_login.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_homepage.py" />
         <item itemvalue="Python tests.Python tests in test_login.py" />
+        <item itemvalue="JUnit.All in ParaBankAutomationFramework (1)" />
+        <item itemvalue="Python.test_login (1)" />
+        <item itemvalue="Python tests.Python tests in test_homepage.py" />
         <item itemvalue="Python.test_login" />
-        <item itemvalue="JUnit.All in ParaBankAutomationFramework" />
-        <item itemvalue="Python.login_page" />
       </list>
     </recent_temporary>
   </component>
@@ -181,5 +240,16 @@
       <updated>1744703257849</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
