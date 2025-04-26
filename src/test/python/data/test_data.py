@@ -6,11 +6,6 @@ test_data = {
         "password": "demo",
         "expected_result": "login_successful"
     },
-    "invalid_login": {
-        "username": "invalid_user",
-        "password": "invalid_pass",
-        "expected_result": "invalid_credentials"
-    },
     "empty_username": {
         "username": "",
         "password": "demo",

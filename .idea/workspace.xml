@@ -16,50 +16,11 @@
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestingAutomationFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingAutomationFramework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParaBankAutomationFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ParaBankAutomationFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/data/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/data/test_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/python/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/pages/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParaBankAutomationFramework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/pages/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/pages/base_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/pages/login_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/testcases/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/testcases/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/python/testcases/test_login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/ParaBankAutomationFramework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/pages/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/pages/base_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/pages/login_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/testcases/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/testcases/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/python/testcases/test_login.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from selenium.common.exceptions import NoSuchElementException
 
 
 class LoginPage:
@@ -43,17 +43,7 @@ class LoginPage:
 
     def get_error_message(self):
         try:
-            # Wait for either a visible error message or internal error banner
-            WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.TAG_NAME, "body"))
-            )
-            if "An internal error has occurred" in self.driver.page_source:
-                return "Internal Server Error"
-
-            WebDriverWait(self.driver, 10).until(
-                EC.visibility_of_element_located((By.XPATH, "//p[@class='error']"))
-            )
-            return self.driver.find_element(By.XPATH, "//p[@class='error']").text.strip()
-        except TimeoutException:
-            self.driver.save_screenshot("error_debug_timeout.png")  # Optional for diagnosis
-            return "Timeout: Error message not displayed"
+            WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located(self.error_message))
+            return self.driver.find_element(*self.error_message).text.strip()
+        except NoSuchElementException:
+            return ""
