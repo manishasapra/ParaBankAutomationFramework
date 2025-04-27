@@ -17,10 +17,6 @@
       <change beforePath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestingAutomationFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingAutomationFramework" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/data/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/data/test_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/pages/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
