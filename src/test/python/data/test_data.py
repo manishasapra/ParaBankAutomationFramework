@@ -15,5 +15,10 @@ test_data = {
         "username": "john",
         "password": "",
         "expected_result": "password_required"
+    },
+    "invalid_login": {
+        "username": "JOHN",
+        "password": "DEMO",
+        "expected_result": "login_successful"
     }
 }
