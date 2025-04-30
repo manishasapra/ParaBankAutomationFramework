@@ -17,7 +17,7 @@
       <change beforePath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestingAutomationFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingAutomationFramework" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/data/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/data/test_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/pages/login_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.All in ParaBankAutomationFramework (1).executor": "Run",
+    "Python tests.Python tests for test_login.test_back_button_after_logout.executor": "Run",
     "Python tests.Python tests for test_login.test_invalid_login.executor": "Run",
     "Python tests.Python tests in test_login.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -116,6 +117,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_login.test_back_button_after_logout" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ParaBankAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test/python/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.test_back_button_after_logout&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_login.test_invalid_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ENV_FILES" value="" />
@@ -129,21 +145,6 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_login.test_invalid_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_homepage.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="ParaBankAutomationFramework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test/python/testcases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/python/testcases/test_homepage.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in test_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -168,17 +169,17 @@
     <list>
       <item itemvalue="JUnit.All in ParaBankAutomationFramework (1)" />
       <item itemvalue="Python.test_login (1)" />
+      <item itemvalue="Python tests.Python tests for test_login.test_back_button_after_logout" />
       <item itemvalue="Python tests.Python tests for test_login.test_invalid_login" />
-      <item itemvalue="Python tests.Python tests in test_homepage.py" />
       <item itemvalue="Python tests.Python tests in test_login.py" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in test_login.py" />
+        <item itemvalue="Python tests.Python tests for test_login.test_back_button_after_logout" />
         <item itemvalue="Python tests.Python tests for test_login.test_invalid_login" />
         <item itemvalue="JUnit.All in ParaBankAutomationFramework (1)" />
         <item itemvalue="Python.test_login (1)" />
-        <item itemvalue="Python tests.Python tests in test_homepage.py" />
       </list>
     </recent_temporary>
   </component>
