@@ -65,3 +65,4 @@ class LoginPage:
         ).is_displayed()
         except TimeoutException:
             return False
+
