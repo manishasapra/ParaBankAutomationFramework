@@ -48,5 +48,34 @@ test_data = {
         "zip_code": "75001",
         "ssn": "000-00-0000",
         "expected_result": "form_error"
+    },
+
+    "register_missing_username": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "address": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip_code": "62701",
+        "phone": "555-1234",
+        "ssn": "123-45-6789",
+        "username": "",
+        "password": "password123",
+        "confirm_password": "password123"
+    },
+    "register_password_mismatch": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "address": "456 Maple Ave",
+        "city": "Shelbyville",
+        "state": "IL",
+        "zip_code": "62702",
+        "phone": "555-5678",
+        "ssn": "987-65-4321",
+        "username": "janesmith",
+        "password": "pass123",
+        "confirm_password": "pass124"
     }
 }
+
+
