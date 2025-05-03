@@ -39,3 +39,4 @@ class RegisterPage:
             return error_element.text.strip()
         except:
             return None
+

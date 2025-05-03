@@ -75,7 +75,39 @@ test_data = {
         "username": "janesmith",
         "password": "pass123",
         "confirm_password": "pass124"
+    },
+    # Existing entries...
+
+    "register_duplicate_username": {
+        "first_name": "Alex",
+        "last_name": "Smith",
+        "address": "456 Elm Street",
+        "city": "Austin",
+        "state": "TX",
+        "zip_code": "73301",
+        "phone": "5125550198",
+        "ssn": "123-45-6789",
+        "username": "existinguser123",  # Use a username that is already registered
+        "password": "Test@1234",
+        "confirm_password": "Test@1234"
+    },
+
+    "register_missing_ssn": {
+        "first_name": "Lily",
+        "last_name": "Johnson",
+        "address": "789 Oak Lane",
+        "city": "Dallas",
+        "state": "TX",
+        "zip_code": "75001",
+        "phone": "2145550199",
+        "ssn": "",  # SSN intentionally left blank
+        "username": "lilyjohnson",
+        "password": "ValidPass@1",
+        "confirm_password": "ValidPass@1"
     }
 }
+
+
+
 
 
