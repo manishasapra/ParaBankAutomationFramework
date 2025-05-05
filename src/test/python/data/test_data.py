@@ -104,6 +104,19 @@ test_data = {
         "username": "lilyjohnson",
         "password": "ValidPass@1",
         "confirm_password": "ValidPass@1"
+    },
+    "register_missing_first_name": {
+        "first_name": "",  # Leaving the first name blank
+        "last_name": "Doe",
+        "address": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip_code": "62701",
+        "phone": "5551234567",
+        "ssn": "123-45-6789",
+        "username": "johndoe123",
+        "password": "Password123!",
+        "confirm_password": "Password123!"
     }
 }
 
