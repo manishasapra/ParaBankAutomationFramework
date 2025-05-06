@@ -19,6 +19,10 @@ test_data = {
         "password": "DEMO",
         "expected_result": "login_failed"
     },
+    "locked_out_user": {
+        "username": "locked_user",
+        "password": "LockedPass123"
+    },
     "forgot_login_valid_data": {
         "first_name": "Jane",
         "last_name": "Doe",

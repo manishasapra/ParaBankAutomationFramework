@@ -66,4 +66,16 @@ def test_invalid_login(driver):
     error_message = login_page.get_error_message()
     assert error_message == "The username and password could not be verified.", f"Unexpected error message: {error_message}"
 
+def test_locked_out_user_login(driver):
+    data = test_data["locked_out_user"]
+    login_page = LoginPage(driver)
+    login_page.open()
+    login_page.enter_username(data["username"])
+    login_page.enter_password(data["password"])
+    login_page.submit_login()
 
+    error_message = login_page.get_error_message()
+    assert error_message in [
+        "Your account has been locked. Please contact support.",
+        "An internal error has occurred and has been logged."
+    ], f"Unexpected error message for locked out user: {error_message}"
