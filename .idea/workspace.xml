@@ -20,7 +20,7 @@
       <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/data/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/data/test_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,25 +52,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.All in ParaBankAutomationFramework (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login.test_back_button_after_logout.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login.test_invalid_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_register.test_register_form_missing_first_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_forgot_login.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_register.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/shivambansal/eclipse-workspace/ParaBankAutomationFramework&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in ParaBankAutomationFramework (1).executor": "Run",
+    "Python tests.Python tests for test_login.test_back_button_after_logout.executor": "Run",
+    "Python tests.Python tests for test_login.test_invalid_login.executor": "Run",
+    "Python tests.Python tests for test_login.test_locked_out_user_login.executor": "Run",
+    "Python tests.Python tests for test_login.test_login_case_sensitivity.executor": "Run",
+    "Python tests.Python tests for test_register.test_register_form_missing_first_name.executor": "Run",
+    "Python tests.Python tests in test_forgot_login.py.executor": "Run",
+    "Python tests.Python tests in test_login.py.executor": "Run",
+    "Python tests.Python tests in test_register.py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/shivambansal/eclipse-workspace/ParaBankAutomationFramework",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -79,7 +81,7 @@
       <recent name="$PROJECT_DIR$/src/test/python/testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_login.test_locked_out_user_login">
+  <component name="RunManager" selected="Python tests.Python tests for test_login.test_login_case_sensitivity">
     <configuration name="All in ParaBankAutomationFramework" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -104,6 +106,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_login.test_locked_out_user_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_login.test_login_case_sensitivity" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ParaBankAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test/python/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.test_login_case_sensitivity&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -137,25 +154,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="ParaBankAutomationFramework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONPATH" value="$PROJECT_DIR$/src/test/python " />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="SDK_NAME" value="Python 3.10 (ParaBankAutomationFramework)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test/python/testcases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/python/testcases/test_login.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in test_register.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ENV_FILES" value="" />
@@ -174,18 +172,18 @@
     <list>
       <item itemvalue="JUnit.All in ParaBankAutomationFramework" />
       <item itemvalue="Python tests.Python tests for test_login.test_locked_out_user_login" />
+      <item itemvalue="Python tests.Python tests for test_login.test_login_case_sensitivity" />
       <item itemvalue="Python tests.Python tests for test_register.test_register_form_missing_first_name" />
       <item itemvalue="Python tests.Python tests in test_register.py" />
       <item itemvalue="Python tests.Python tests in test_forgot_login.py" />
-      <item itemvalue="Python tests.Python tests in test_login.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_login.test_login_case_sensitivity" />
         <item itemvalue="Python tests.Python tests for test_login.test_locked_out_user_login" />
         <item itemvalue="Python tests.Python tests in test_register.py" />
         <item itemvalue="Python tests.Python tests for test_register.test_register_form_missing_first_name" />
         <item itemvalue="Python tests.Python tests in test_forgot_login.py" />
-        <item itemvalue="Python tests.Python tests in test_login.py" />
       </list>
     </recent_temporary>
   </component>

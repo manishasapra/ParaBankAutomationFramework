@@ -79,3 +79,16 @@ def test_locked_out_user_login(driver):
         "Your account has been locked. Please contact support.",
         "An internal error has occurred and has been logged."
     ], f"Unexpected error message for locked out user: {error_message}"
+def test_login_case_sensitivity(driver):
+    data = test_data["valid_login"]
+    login_page = LoginPage(driver)
+    login_page.open()
+    login_page.enter_username(data["username"].upper())  # Alter case
+    login_page.enter_password(data["password"].lower())  # Alter case
+    login_page.submit_login()
+
+    error_message = login_page.get_error_message()
+    assert error_message in [
+    "The username and password could not be verified.",
+    "An internal error has occurred and has been logged."
+], "Login should fail if case sensitivity is enforced."
