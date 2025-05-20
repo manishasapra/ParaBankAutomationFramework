@@ -19,8 +19,6 @@
       <change beforePath="$PROJECT_DIR$/../Learnjava/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,27 +50,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.All in ParaBankAutomationFramework (1).executor": "Run",
-    "Python tests.Python tests for test_login.test_back_button_after_logout.executor": "Run",
-    "Python tests.Python tests for test_login.test_invalid_login.executor": "Run",
-    "Python tests.Python tests for test_login.test_locked_out_user_login.executor": "Run",
-    "Python tests.Python tests for test_login.test_login_case_sensitivity.executor": "Run",
-    "Python tests.Python tests for test_register.test_register_form_missing_first_name.executor": "Run",
-    "Python tests.Python tests in test_forgot_login.py.executor": "Run",
-    "Python tests.Python tests in test_login.py.executor": "Run",
-    "Python tests.Python tests in test_register.py.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/shivambansal/eclipse-workspace/ParaBankAutomationFramework",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.All in ParaBankAutomationFramework (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login.test_back_button_after_logout.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login.test_invalid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login.test_locked_out_user_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login.test_login_case_sensitivity.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_register.test_register_form_missing_first_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_forgot_login.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_register.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shivambansal/eclipse-workspace/ParaBankAutomationFramework&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />

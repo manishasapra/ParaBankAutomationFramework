@@ -6,7 +6,8 @@ from pages.register_page import RegisterPage
     "register_missing_username",
     "register_password_mismatch",
     "register_missing_ssn",
-    "register_missing_first_name"
+    "register_missing_first_name",
+    "register_missing_password"  # New test case added
 ])
 def test_register_form_validation(driver, data_key):
     data = test_data[data_key]
@@ -34,7 +35,8 @@ def test_register_form_validation(driver, data_key):
         "register_missing_username": "Username is required.",
         "register_password_mismatch": "Passwords did not match.",
         "register_missing_ssn": "Social Security Number is required.",
-        "register_missing_first_name": "First name is required."
+        "register_missing_first_name": "First name is required.",
+        "register_missing_password": "Password is required."  # New expected error
     }
 
     if data_key in expected_errors:

@@ -121,7 +121,21 @@ test_data = {
         "username": "johndoe123",
         "password": "Password123!",
         "confirm_password": "Password123!"
+    },
+    "register_missing_password": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "address": "123 Main St",
+        "city": "Metropolis",
+        "state": "NY",
+        "zip_code": "10001",
+        "phone": "1234567890",
+        "ssn": "123-45-6789",
+        "username": "johndoe",
+        "password": "",  # Intentionally left blank
+        "confirm_password": ""
     }
+
 }
 
 
