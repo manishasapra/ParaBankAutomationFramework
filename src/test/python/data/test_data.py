@@ -134,6 +134,19 @@ test_data = {
         "username": "johndoe",
         "password": "",  # Intentionally left blank
         "confirm_password": ""
+    },
+    "register_missing_last_name": {
+        "first_name": "Jane",
+        "last_name": "",  # Intentionally blank
+        "address": "123 Elm St",
+        "city": "Berlin",
+        "state": "Berlin",
+        "zip_code": "10115",
+        "phone": "0123456789",
+        "ssn": "123-45-6789",
+        "username": "janeuser",
+        "password": "securePass123",
+        "confirm_password": "securePass123"
     }
 
 }

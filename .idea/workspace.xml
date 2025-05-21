@@ -19,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/../Learnjava/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <recent name="$PROJECT_DIR$/src/test/python/testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_login.test_login_case_sensitivity">
+  <component name="RunManager" selected="Python tests.Python tests in test_register.py">
     <configuration name="All in ParaBankAutomationFramework" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -172,14 +173,14 @@
       <item itemvalue="Python tests.Python tests for test_login.test_locked_out_user_login" />
       <item itemvalue="Python tests.Python tests for test_login.test_login_case_sensitivity" />
       <item itemvalue="Python tests.Python tests for test_register.test_register_form_missing_first_name" />
-      <item itemvalue="Python tests.Python tests in test_register.py" />
       <item itemvalue="Python tests.Python tests in test_forgot_login.py" />
+      <item itemvalue="Python tests.Python tests in test_register.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_register.py" />
         <item itemvalue="Python tests.Python tests for test_login.test_login_case_sensitivity" />
         <item itemvalue="Python tests.Python tests for test_login.test_locked_out_user_login" />
-        <item itemvalue="Python tests.Python tests in test_register.py" />
         <item itemvalue="Python tests.Python tests for test_register.test_register_form_missing_first_name" />
         <item itemvalue="Python tests.Python tests in test_forgot_login.py" />
       </list>
