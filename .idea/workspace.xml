@@ -20,6 +20,8 @@
       <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/data/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/data/test_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
       <recent name="$PROJECT_DIR$/src/test/python/testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_register.py">
+  <component name="RunManager" selected="Python tests.Python tests in test_login.py">
     <configuration name="All in ParaBankAutomationFramework" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -138,7 +140,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_forgot_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +151,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/python/testcases/test_forgot_login.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/python/testcases/test_login.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -170,19 +172,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in ParaBankAutomationFramework" />
+      <item itemvalue="Python tests.Python tests in test_login.py" />
       <item itemvalue="Python tests.Python tests for test_login.test_locked_out_user_login" />
       <item itemvalue="Python tests.Python tests for test_login.test_login_case_sensitivity" />
       <item itemvalue="Python tests.Python tests for test_register.test_register_form_missing_first_name" />
-      <item itemvalue="Python tests.Python tests in test_forgot_login.py" />
       <item itemvalue="Python tests.Python tests in test_register.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_login.py" />
         <item itemvalue="Python tests.Python tests in test_register.py" />
         <item itemvalue="Python tests.Python tests for test_login.test_login_case_sensitivity" />
         <item itemvalue="Python tests.Python tests for test_login.test_locked_out_user_login" />
         <item itemvalue="Python tests.Python tests for test_register.test_register_form_missing_first_name" />
-        <item itemvalue="Python tests.Python tests in test_forgot_login.py" />
       </list>
     </recent_temporary>
   </component>

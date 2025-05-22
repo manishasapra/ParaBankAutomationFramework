@@ -147,6 +147,9 @@ test_data = {
         "username": "janeuser",
         "password": "securePass123",
         "confirm_password": "securePass123"
+    },"whitespace_input": {
+        "username": "   ",
+        "password": "   "
     }
 
 }
