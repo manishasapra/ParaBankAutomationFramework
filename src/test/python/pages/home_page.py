@@ -38,3 +38,6 @@ class HomePage(BasePage):
 
     def is_logo_displayed(self):
         return self.is_element_present(self.logo)
+
+    def click_contact(self):
+        self.driver.find_element(By.LINK_TEXT, "Contact Us").click()

@@ -5,6 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b65bd99-6a8e-48a4-8af4-885546341360" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/base/BaseTestApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/controller/ControllerConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/controller/EndpointActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/helper/TestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/Apn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/DataSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/EsimData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/EsimListResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/EsimOrderResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/Links.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/Meta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/MetaListResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/PlatformApn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/Sim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/Simable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/core/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/api/scenarios/AiraloApiTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/common/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/common/dataprovider/SimsOrderTestDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/common/utils/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/common/utils/LoggerUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/common/utils/TestCaseEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/java/com/airalo/web/core/pages/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/resources/env.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/resources/testdata/createOrderResponseData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/src/test/resources/testdata/listSimResponseOrderData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AiraloUIAutomation/test-suite.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MonefyAppAutomation/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoqa-automation/.idea/misc.xml" afterDir="false" />
@@ -17,11 +46,84 @@
       <change beforePath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestFrameworkforBookingPlatform/test-output/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APITestingAutomationFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../APITestingAutomationFramework" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Learnjava/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/ArrayProblems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/CheckArmstrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/CheckArrayEqual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/CountCapitalchar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/CountDuplicateCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/CountDuplicateWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/CountTotalWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/CountVowels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/Countchar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/DeleteString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/DuplicateNumberArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/FindMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/FindMaxMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/IntersectionArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/NumbersPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/PrintSumOfIntegers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/RemoveWhiteSpaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/SolvingProblems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/StringPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/StringProblems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/StringRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/Stringalpha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/Stringmanipulations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/SumOfAllIntegersArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/SwapNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/SwapStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/Uniquechar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/findSecondHighestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/practiceapril.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/reversedString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/Basic/reversestring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/bin/study/College.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/ArrayProblems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/CheckArmstrongNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/CheckArrayEqual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/CountCapitalchar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/CountDuplicateCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/CountDuplicateWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/CountTotalWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/CountVowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/Countchar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/DeleteString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/DuplicateNumberArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/FindMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/FindMaxMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/IntersectionArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/NumbersPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/PrintSumOfIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/RemoveWhiteSpaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/ReverseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/SolvingProblems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/StringPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/StringProblems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/StringRotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/Stringalpha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/Stringmanipulations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/SumOfAllIntegersArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/SwapNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/SwapStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/Uniquechar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/findSecondHighestElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/hshdsbhgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/practiceapril.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/reversedString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/Basic/reversestring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnjava/src/study/College.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/data/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/data/test_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/pages/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/pages/home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/python/testcases/test_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/python/testcases/test_homepage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,27 +155,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.All in ParaBankAutomationFramework (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login.test_back_button_after_logout.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login.test_invalid_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login.test_locked_out_user_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_login.test_login_case_sensitivity.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_register.test_register_form_missing_first_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_forgot_login.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_register.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/shivambansal/eclipse-workspace/ParaBankAutomationFramework&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in ParaBankAutomationFramework (1).executor": "Run",
+    "Python tests.Python tests for test_login.test_back_button_after_logout.executor": "Run",
+    "Python tests.Python tests for test_login.test_invalid_login.executor": "Run",
+    "Python tests.Python tests for test_login.test_locked_out_user_login.executor": "Run",
+    "Python tests.Python tests for test_login.test_login_case_sensitivity.executor": "Run",
+    "Python tests.Python tests for test_register.test_register_form_missing_first_name.executor": "Run",
+    "Python tests.Python tests in test_forgot_login.py.executor": "Run",
+    "Python tests.Python tests in test_homepage.py.executor": "Run",
+    "Python tests.Python tests in test_login.py.executor": "Run",
+    "Python tests.Python tests in test_register.py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/shivambansal/eclipse-workspace/ParaBankAutomationFramework",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -82,7 +185,7 @@
       <recent name="$PROJECT_DIR$/src/test/python/testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_login.py">
+  <component name="RunManager" selected="Python tests.Python tests in test_homepage.py">
     <configuration name="All in ParaBankAutomationFramework" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -125,7 +228,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_register.test_register_form_missing_first_name" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_homepage.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="ParaBankAutomationFramework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,8 +239,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_register.test_register_form_missing_first_name&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/python/testcases/test_homepage.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in test_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -172,19 +275,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in ParaBankAutomationFramework" />
+      <item itemvalue="Python tests.Python tests in test_homepage.py" />
       <item itemvalue="Python tests.Python tests in test_login.py" />
       <item itemvalue="Python tests.Python tests for test_login.test_locked_out_user_login" />
       <item itemvalue="Python tests.Python tests for test_login.test_login_case_sensitivity" />
-      <item itemvalue="Python tests.Python tests for test_register.test_register_form_missing_first_name" />
       <item itemvalue="Python tests.Python tests in test_register.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_homepage.py" />
         <item itemvalue="Python tests.Python tests in test_login.py" />
         <item itemvalue="Python tests.Python tests in test_register.py" />
         <item itemvalue="Python tests.Python tests for test_login.test_login_case_sensitivity" />
         <item itemvalue="Python tests.Python tests for test_login.test_locked_out_user_login" />
-        <item itemvalue="Python tests.Python tests for test_register.test_register_form_missing_first_name" />
       </list>
     </recent_temporary>
   </component>

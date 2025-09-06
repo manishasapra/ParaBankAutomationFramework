@@ -46,4 +46,8 @@ def test_services_link(driver):
     home.click_services()
     assert "Services" in driver.page_source
 
-
+def test_contact_link(driver):
+    home = HomePage(driver)
+    home.open()
+    home.click_contact()
+    assert "Customer Care" in driver.page_source or "Contact Us" in driver.page_source
