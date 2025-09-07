@@ -51,3 +51,9 @@ def test_contact_link(driver):
     home.open()
     home.click_contact()
     assert "Customer Care" in driver.page_source or "Contact Us" in driver.page_source
+
+def test_register_link(driver):
+    home = HomePage(driver)
+    home.open()
+    home.click_register()
+    assert "Signing up is easy!" in driver.page_source

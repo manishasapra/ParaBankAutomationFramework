@@ -41,3 +41,6 @@ class HomePage(BasePage):
 
     def click_contact(self):
         self.driver.find_element(By.LINK_TEXT, "Contact Us").click()
+
+    def click_register(self):
+        self.driver.find_element(By.LINK_TEXT, "Register").click()
